@@ -9,5 +9,6 @@
 #Organization of Repo
 
   - BeginningPython: Contains Python scripts broken up by topic, i.e., Functions, Loops, etc.
+    - This folder is meant to be introductory to the language of Python. 
     - NOTE: I will add more to this repo as time goes on.
 
