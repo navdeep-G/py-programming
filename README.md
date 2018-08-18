@@ -2,11 +2,11 @@
 
 ![Py](py.png)
 
-#Overview of Repo
+# Overview of Repo
   - This repo contains scripts about Python as a language.
   - Each topic of Python programming is broken up into a folder.
   
-#Organization of Repo
+# Organization of Repo
 
   - BeginningPython: Contains Python scripts broken up by topic, i.e., Functions, Loops, etc.
     - This folder is meant to be introductory to the language of Python. 
